@@ -41,8 +41,8 @@ this library will cover 3 different aspect of user interfaces (holo ux, holo 2d,
 ### smart interfaces
 
 HoloUX, will allow people to create smart UX interfaces, that will try to look good in any device, 
-declare user interaction and forklows that integrate seamless with any backend, and be platform independent.
-the first targeted environment  are browser due they popularity, but it will be really easy to implement holo in other environments.
+declare user interaction and workflows that integrate seamless with any backend, and be platform independent.
+the first targeted environment are browser due they popularity, but it will be really easy to implement holo in other environments.
 
 Component will always try to render the best way possible taking into account things like screen and platform limitations,
 according to the context, capabilities and intentions
