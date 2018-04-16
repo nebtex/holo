@@ -126,9 +126,12 @@ props animations should be done in the `spiral`.
 
 which means **any kind of manual work  is not desirable**
 
-## DOm
+## DOM
 
-the holo doom is in a design phase 
+the holo doom is in a design phase, he is a initial look 
 
-![alt text](../holodom.jp)
+![alt text](holodom.jpg)
+
+the green components/paths will automatically not be rendered when their viewport is <  min(sm_screen) where sm stand for extra small,
+ 
 
