@@ -128,7 +128,7 @@ which means **any kind of manual work  is not desirable**
 
 ## DOM
 
-the holo doom is in a design phase, he is a initial look 
+the holo doom is in a design phase, this is an initial concept 
 
 ![alt text](holodom.jpg)
 
