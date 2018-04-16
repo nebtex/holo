@@ -1,0 +1,6 @@
+[package]
+name = "holo_ux"
+version = "0.1.0"
+authors = ["Cristian Lozano <criloz@nebtex.com>"]
+
+[dependencies]
